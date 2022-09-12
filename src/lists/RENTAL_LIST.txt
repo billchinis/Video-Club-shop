@@ -1,0 +1,48 @@
+RENTAL_LIST
+{
+	RENTAL
+	{
+		CODE "1"
+		ITEM_TYPE "movie"
+		SUB_TYPE "blue ray"
+		TITLE "Edge of Tomorrow"
+		NAME "bill"
+		DATE "Fri Jun 26 13:39:12 EEST 2015"
+		DAYS "12"
+		OVERDUE DAYS "0"
+		PHONE "34567890"
+		COST "36"
+		OVERDUE COST "0"
+		RETURNED "true"
+	}
+	RENTAL
+	{
+		CODE "2"
+		ITEM_TYPE "movie"
+		SUB_TYPE "DVD"
+		TITLE "Edge of Tomorrow"
+		NAME "giannis"
+		DATE "Fri Jun 26 13:39:26 EEST 2015"
+		DAYS "161"
+		OVERDUE DAYS "0"
+		PHONE "1234567"
+		COST "3381"
+		OVERDUE COST "0"
+		RETURNED "true"
+	}
+	RENTAL
+	{
+		CODE "3"
+		ITEM_TYPE "game"
+		PLATFORM "Playstation"
+		TITLE "pes"
+		NAME "george"
+		DATE "Fri Jun 26 13:40:48 EEST 2015"
+		DAYS "854"
+		OVERDUE DAYS "0"
+		PHONE "234567890"
+		COST "23912"
+		OVERDUE COST "0"
+		RETURNED "true"
+	}
+}

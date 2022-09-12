@@ -1,0 +1,185 @@
+ITEM_LIST
+{
+	ITEM
+	{
+		ITEM_TYPE "Movie"
+		TITLE "Edge of Tomorrow"
+		YEAR "2014"
+		COMPANY "Warner Bros"
+		PATH "images/Items/edge.jpg"
+		CATEGORY "Action" "Sci-fi"
+		SUB_TYPE "DVD"
+		TIME "113 min"
+		CAST "Tom Cruise" "Emily Blunt" "Bill Paxton"
+		DIRECTOR "Doug Liman"
+		SCRIPT WRITER "Christopher McQuarrie"
+		LATEST RELEASE "false"
+		COPIES "2"
+		AVAILABLE COPIES "2"
+	}
+	ITEM
+	{
+		ITEM_TYPE "Movie"
+		TITLE "Edge of Tomorrow"
+		YEAR "2014"
+		COMPANY "Warner Bros"
+		PATH "images/Items/edge.jpg"
+		CATEGORY "Action" "Sci-fi"
+		SUB_TYPE "blue ray"
+		TIME "113 min"
+		CAST "Tom Cruise" "Emily Blunt" "Bill Paxton"
+		DIRECTOR "Doug Liman"
+		SCRIPT WRITER "Christopher McQuarrie"
+		COPIES "2"
+		AVAILABLE COPIES "2"
+	}
+	ITEM
+	{
+		ITEM_TYPE "Movie"
+		TITLE "Fast & Furious 7"
+		YEAR "2015"
+		COMPANY "Universal Pictures"
+		PATH "images/Items/furious7.jpg"
+		CATEGORY "Action" "Crime" "Thriller"
+		SUB_TYPE "DVD"
+		TIME "137 min"
+		CAST "Vin Diesel" "Paul Walker" "Dwayne Johnson" "Michelle Rodriguez"
+		DIRECTOR "James Wan"
+		SCRIPT WRITER "Chris Morgan"
+		LATEST RELEASE "true"
+		COPIES "2"
+		AVAILABLE COPIES "2"
+	}
+	ITEM
+	{
+		ITEM_TYPE "Movie"
+		TITLE "Fast & Furious 7"
+		YEAR "2015"
+		COMPANY "Universal Pictures"
+		PATH "images/Items/furious7.jpg"
+		CATEGORY "Action" "Crime" "Thriller"
+		SUB_TYPE "blue ray"
+		TIME "137 min"
+		CAST "Vin Diesel" "Paul Walker" "Dwayne Johnson" "Michelle Rodriguez"
+		DIRECTOR "James Wan"
+		SCRIPT WRITER "Chris Morgan"
+		COPIES "2"
+		AVAILABLE COPIES "2"
+	}
+	ITEM
+	{
+		ITEM_TYPE "Game"
+		TITLE "FIFA 13"
+		YEAR "2013"
+		COMPANY "EA Canada"
+		PATH "images/Items/fifa13.jpg"
+		CATEGORY "Sports"
+		PLATFORM "Playstation"
+		COPIES "2"
+		AVAILABLE COPIES "2"
+	}
+	ITEM
+	{
+		ITEM_TYPE "Game"
+		TITLE "FIFA 13"
+		YEAR "2013"
+		COMPANY "EA Canada"
+		PATH "images/Items/fifa13.jpg"
+		CATEGORY "Sports"
+		PLATFORM "XBOX"
+		COPIES "2"
+		AVAILABLE COPIES "2"
+	}
+	ITEM
+	{
+		ITEM_TYPE "Game"
+		TITLE "FIFA 13"
+		YEAR "2013"
+		COMPANY "EA Canada"
+		PATH "images/Items/fifa13.jpg"
+		CATEGORY "Sports"
+		PLATFORM "Nintendo"
+		COPIES "2"
+		AVAILABLE COPIES "2"
+	}
+	ITEM
+	{
+		ITEM_TYPE "Game"
+		TITLE "Battlefield 3"
+		YEAR "2011"
+		COMPANY "DICE"
+		PATH "images/Items/bf3.jpg"
+		CATEGORY "FPC"
+		PLATFORM "Playstation"
+		COPIES "2"
+		AVAILABLE COPIES "2"
+	}
+	ITEM
+	{
+		ITEM_TYPE "Game"
+		TITLE "Battlefield 3"
+		YEAR "2011"
+		COMPANY "DICE"
+		PATH "images/Items/bf3.jpg"
+		CATEGORY "FPC"
+		PLATFORM "XBOX"
+		COPIES "2"
+		AVAILABLE COPIES "2"
+	}
+	ITEM
+	{
+		ITEM_TYPE "Game"
+		TITLE "Battlefield 3"
+		YEAR "2011"
+		COMPANY "DICE"
+		PATH "images/Items/bf3.jpg"
+		CATEGORY "FPC"
+		PLATFORM "Nintendo"
+		COPIES "2"
+		AVAILABLE COPIES "2"
+	}
+	ITEM
+	{
+		ITEM_TYPE "Movie"
+		TITLE "The Avengers"
+		YEAR "2012"
+		COMPANY "Marvel"
+		PATH "images/Items/noimage.jpg"
+		CATEGORY "Action" "Adventure" "Sci-Fi"
+		SUB_TYPE "blue ray"
+		TIME "143 min"
+		CAST "Robert Downey Jr." "Chris Evans" "Scarlett Johansson"
+		DIRECTOR "Joss Whedon"
+		SCRIPT WRITER "Joss Whedon"
+		COPIES "2"
+		AVAILABLE COPIES "2"
+	}
+	ITEM
+	{
+		ITEM_TYPE "Movie"
+		TITLE "Ex Machina"
+		YEAR "2015"
+		COMPANY "DNA Films"
+		PATH "images/Items/noimage.jpg"
+		CATEGORY "Drama" "Sci-Fi"
+		SUB_TYPE "blue ray"
+		TIME "108 min"
+		CAST "Alicia Vikander" "Domhnall Gleeson" "Oscar Isaac"
+		DIRECTOR "Alex Garland"
+		SCRIPT WRITER "Alex Garland"
+		COPIES "2"
+		AVAILABLE COPIES "2"
+	}
+	ITEM
+	{
+		ITEM_TYPE "Game"
+		TITLE "pes"
+		YEAR "2015"
+		COMPANY "konami"
+		PATH "images/Items/noimage.jpg"
+		CATEGORY "soccer" "football"
+		PLATFORM "Playstation"
+		COPIES "2"
+		AVAILABLE COPIES "2"
+	}
+}
